@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/THE3.dir/test.cpp.o CMakeFiles/THE3.dir/the3.cpp.o CMakeFiles/THE3.dir/calismio.cpp.o -o THE3 

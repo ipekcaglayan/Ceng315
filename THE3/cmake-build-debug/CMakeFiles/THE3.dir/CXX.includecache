@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ipekcaglayan/Desktop/Ceng315/THE3/test.cpp
+iostream
+-
+random
+-
+ctime
+-
+the3.h
+/Users/ipekcaglayan/Desktop/Ceng315/THE3/the3.h
+
+/Users/ipekcaglayan/Desktop/Ceng315/THE3/the3.cpp
+the3.h
+/Users/ipekcaglayan/Desktop/Ceng315/THE3/the3.h
+
+/Users/ipekcaglayan/Desktop/Ceng315/THE3/the3.h
+iostream
+-
+climits
+-
+cmath
+-
+string
+-
+
